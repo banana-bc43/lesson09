@@ -1,1 +1,1 @@
-print("hannya=ibukikeiji")
+print("般若＝伊吹刑事")
