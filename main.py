@@ -1,0 +1,1 @@
+print("hannya=ibukikeiji")
